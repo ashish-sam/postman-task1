@@ -1,16 +1,8 @@
-# app1
+# postman-task1
 
-A new Flutter project.
+Submission for the round 1 of recruitments for Postman Innovation Labs, BITS Pilani.
 
-## Getting Started
+## Functionality
 
-This project is a starting point for a Flutter application.
+This app displays a list of courses fetched from the API provided by Postman. The search function upatees the list as the user types in their query, filtering the list by BOTH course name and course code. There are also two dropdown menus to add filters based on the branch and year of the course. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
